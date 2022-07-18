@@ -3,7 +3,13 @@ Welcome to Lingqiao Liu's academic homepage!
 ======
 I am currently a Senior Lecturer at the School of Computer Science, The University of Adelaide, Australia. I am also an Academic Member of the Australian Institute for Machine Learning. He is a recipient of ARC DECRA (Discovery Early Career Researcher Award) award in 2016 and the University of Adelaide Research Fellowship award in 2016. 
 
-Getting started
+I have broad interests in machine learning, computer vision and natural language processing. My research objective is to build practical machine learning systems that can be more data efficient and generalisable for real-world applications. My current major research topics are about:
+1. low-supervision machine learning, including semi-supervised learning, unsupervised learning, few-shot/zero-shot learning etc. 
+1. generalisable machine learning systems, including domain generalization, compositional generalization  
+1. applications in computer vision, e.g., dense prediction, fine-grained recognition, content generation  
+1. applications in natural language processing, e.g., low-resource NLP, generalization of NLP systems  
+
+News
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
