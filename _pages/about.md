@@ -14,4 +14,5 @@ News
 
 Contact
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Office: 1.23, Australian Institute for Machine Learning, Australia
+Email :  lingqiao.liu at adelaide.edu.au 
