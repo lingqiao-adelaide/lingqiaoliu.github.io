@@ -16,4 +16,4 @@ Contact
 ------
 Office: 1.23, Australian Institute for Machine Learning, Australia
 
-Email :  lingqiao.liu at adelaide.edu.au 
+Email :  lingqiao.liu@adelaide.edu.au 
