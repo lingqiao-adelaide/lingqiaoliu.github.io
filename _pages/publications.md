@@ -6,6 +6,9 @@ author_profile: true
 ---
 ## 2022
 
+- Yangyang Shu, Baosheng Yu, Haiming Xu, **Lingqiao Liu***: Improving Fine-grained Visual Recognition in Low Data Regimes via Self-boosting Attention Mechanism. ECCV 2022 [C48]
+- 
+- Bingliang Jiao, **Lingqiao Liu**, Liying Gao, Guosheng Lin, Lu Yang, Shizhou Zhang, Peng Wang, Yanning Zhang: Dynamically Transformed Instance Normalization Network for Generalizable Person Re-identification. ECCV 2022 [C47]
 
 - Yingjie Zhou, Xucheng Song, Yanru Zhang, Fanxing Liu, Ce Zhu, **Lingqiao Liu***: Feature Encoding With Autoencoders for Weakly Supervised Anomaly Detection. IEEE Trans. Neural Networks Learn. Syst. 33(6): 2454-2465 (2022) [J26]
 
@@ -16,7 +19,6 @@ author_profile: true
 
 - Hai-Ming Xu, **Lingqiao Liu**, Ehsan Abbasnejad: Progressive Class Semantic Matching for Semi-supervised Text Classification. NAACL-HLT 2022: 3003-3013 2022 (Oral) [C44]
 
-- Jinan Zou, Haiyao Cao, **Lingqiao Liu**, Yuhao Lin, Ehsan Abbasnejad, Javen Qinfeng Shi: Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model. CoRR abs/2206.06606 (2022) [C43]
 
 
 
