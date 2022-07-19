@@ -6,7 +6,7 @@ author_profile: true
 
 ## Low-supervision Learning via Knowledge Transfer from Pretrained Models
 This research theme investigates methods that can use a small amount of supervision to build a machine learning system. In particular, we are interested in transfering knowledge learned from a pretrained model to achieve this goal. At the application level, this project encompasses a wide range of applications, examples including image or text classification, dense prediction such as semantic or instance segmentation, information extraction in NLP, content generation etc.
-### Related Publications
+**Related Publications**
 - Hai-Ming Xu, **Lingqiao Liu**, Ehsan Abbasnejad: Progressive Class Semantic Matching for Semi-supervised Text Classification. NAACL-HLT 2022: 3003-3013 2022 (Oral) 
 
 - Qiaoyang Luo,  **Lingqiao Liu**, Yuhao Lin, Wei Zhang: Don't Miss the Labels: Label-semantic Augmented Meta-Learner for Few-Shot Text Classification. ACL/IJCNLP (Findings) 2021: 2773-2782
