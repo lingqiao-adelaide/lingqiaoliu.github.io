@@ -19,8 +19,13 @@ News
 1. (April 2022) 1 paper accepted as ORAL paper to appear at NAACL 2022 
 1. (March 2022) 1 paper accepted as ORAL paper to appear at CVPR 2022 
 
+**Positions**
+-------
+- 2 PhD positions with full scholarship (one in computer vision and one in NLP)
+- 3 Postdoc positions available 
 
 Contact
 ------
 Office: 1.23, Australian Institute for Machine Learning, Australia
+Email: lingqiao.liu@adelaide.edu.au
 
