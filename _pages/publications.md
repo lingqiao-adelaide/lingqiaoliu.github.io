@@ -34,7 +34,21 @@ author_profile: true
 
 
 ## 2019
+- Yinjie Lei, Ziqin Zhou, Pingping Zhang, Yulan Guo, ZijunMa, **Lingqiao Liu**. Deep point-to-subspace metric learning for sketch-based 3D shape retrieval. Pattern Recognition,  2019. [J16]
+- 
+- Shengqin Jiang, Xiaobo Lu, **Lingqiao Liu**. Mask-aware networks for crowd counting.  IEEE Transactions on Circuits and Systems for Video Technology. 2019. [J15]
 
+- Dong Gong, **Lingqiao Liu**, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel. Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection. IEEE International Conference on Computer Vision (ICCV)  2019. [C33]
+
+- Xiu-Shen Wei, Peng Wang, **Lingqiao Liu**, Chunhua Shen, Jianxin Wu. Piecewise classifier mappings:Learning fine-grained learners for novel categories with few examples. IEEE Transactions on Image Processing, Accepted in May 2019. [J14]
+- 
+- Ehsan Abbasnejad, Javen Shi, Anton van den Hengel, **Lingqiao Liu**. A Generative Adversarial Density Estimator. In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR ), 2019.   [C32]
+
+- Bohan Zhuang, Chunhua Shen, Mingkui Tan, **Lingqiao Liu**, Ian Reid. Structured Binary Neural Networks for Accurate Image Classification and Semantic Segmentation, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.   [C31]
+
+- Peng Wang,**Lingqiao Liu**, Chunhua Shen, Heng Tao Shen. Order-Aware Convolutional Pooling for Video Based Action Recognition, Pattern Recognition (PR) 2019.   [J14]
+
+- Yu Chen, Chunhua Shen, Hao Chen, Xiu-Shen Wei, **Lingqiao Liu**, Jian Yang. Adversarial Learning of Structure-Aware Fully Convolutional Networks for Landmark Localization, IEEE Transcation Pattern Analysis and Machine Intelligence. Accepted in 2019 .   [J13]
 
 ## 2018
 
