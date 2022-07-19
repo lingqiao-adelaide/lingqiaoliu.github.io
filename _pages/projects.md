@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Active Research Project & Directions"
+title: "Active Research Themes"
 author_profile: true
 ---
 
