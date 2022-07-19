@@ -4,14 +4,30 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-hello
+2022
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2021
+
+
+
+
+2020
+
+  
+1. Yan Liu*, Lingqiao Liu*, Peng Wang, Pingping Zhang, Yinjie Lei. Semi-supervised Crowd Counting via Self-training on Surrogate Tasks. ECCV 2020.  [C38]
+
+1. Yu Liu, Lingqiao Liu, Haokui Zhang, S. Hamid Rezatofighi, Qingsen Yan, Ian Reid. Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation. 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems.  [C37]
+
+1. Yanjie Gou, Yinjie Lei, Lingqiao Liu, Pingping Zhang, Xi Peng. A Dynamic Parameter Enhanced Network for distant supervised relation extraction. Knowledge-Based Systems 2020.  [J19]
+
+1. Zhibin Liao, Lingqiao Liu, Qi Wu, Damien Teney, Chunhua Shen, Anton van den Hengel, Johan Verjans. Medical Data Inquiry Using a Question Answering Model. 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI).  [C36]
+
+1. Lei Zhang, Peng Wang, Lingqiao Liu, Chunhua Shen,Wei Wei, Yanning Zhang, Anton Van Den Hengel. Towards effective deep embedding for zero-shot learning. IEEE Transactions on Circuits and Systems for Video Technology 2020.  [J18]
+
+1. Lei Zhang, Peng Wang, Chunhua Shen, Lingqiao Liu, Wei Wei, Yanning Zhang, Anton Van Den Hengel. Adaptive importance learning for improving lightweight image super-resolution network. International Journal of Computer Vision, 2020.  [J17]
+
+1. Bohan Zhuang, Lingqiao Liu, Mingkui Tan, Chunhua Shen, Ian Reid. Training Quantized Neural Networks with the Full-precision Auxiliary Module.IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.  [C35]
+
+1. Damien Teney, Peng Wang, Jiewei Cao, Lingqiao Liu, Chunhua Shen, Anton van den Hengel. V-PROM: A Benchmark for Visual Reasoning Using Visual Progressive Matrices. AAAI 2020.  [C34]
