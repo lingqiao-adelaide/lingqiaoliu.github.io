@@ -10,9 +10,9 @@ author_profile: true
 
 ## 2021
 
-Junjie Zhang, **Lingqiao Liu**, Peng Wang, Jian Zhang: Exploring the auxiliary learning for long-tailed visual recognition. Neurocomputing 449: 303-314 (2021) [J25]
+- Junjie Zhang, **Lingqiao Liu**, Peng Wang, Jian Zhang: Exploring the auxiliary learning for long-tailed visual recognition. Neurocomputing 449: 303-314 (2021) [J25]
 
-Liangyi Kang, Jie Liu, **Lingqiao Liu**, Zhiyang Zhou, Dan Ye: Semi-supervised emotion recognition in textual conversation via a context-augmented auxiliary training task. Inf. Process. Manag. 58(6): 102717 (2021) [J24]
+- Liangyi Kang, Jie Liu, **Lingqiao Liu**, Zhiyang Zhou, Dan Ye: Semi-supervised emotion recognition in textual conversation via a context-augmented auxiliary training task. Inf. Process. Manag. 58(6): 102717 (2021) [J24]
 
 - Yinjie Lei, Yan Liu, Pingping Zhang, **Lingqiao Liu**: Towards using count-level weak supervision for crowd counting. Pattern Recognit. 109: 107616 (2021) [J23]
 
