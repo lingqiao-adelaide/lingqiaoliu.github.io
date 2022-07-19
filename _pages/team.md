@@ -23,5 +23,8 @@ author_profile: true
 - Dr. Wanxuan Lu
 - Dr. Xu Wang
 - Dr. Shengqin Jiang
+- Dr. Yao Li (Co-supervised with Prof. Chunhua Shen)
+- Dr. Yu Liu (Co-supervised with Prof. Ian Reid)
+- Dr. Ruizhi Qiao (Co-supervised with Prof. Chunhua Shen)
 
 
