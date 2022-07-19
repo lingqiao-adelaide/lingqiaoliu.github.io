@@ -59,26 +59,44 @@ author_profile: true
 
 ## 2017
 
--Bohan Zhuang*, **Lingqiao Liu***, Chunhua Shen, Ian Reid. Towards Context-aware Interaction Recognition for Visual Relationship Detection. IEEE International Conference on Computer Vision (ICCV)  2017.  (* Indicates equal contribution.)          [C27]
+- Bohan Zhuang*, **Lingqiao Liu***, Chunhua Shen, Ian Reid. Towards Context-aware Interaction Recognition for Visual Relationship Detection. IEEE International Conference on Computer Vision (ICCV)  2017.  (* Indicates equal contribution.)          [C27]
 
--Tong Shen, Guosheng Lin, **Lingqiao Liu**, Chunhua Shen, Ian Reid. Weakly Supervised Semantic Segmentation Based on Co-segmentation . British Machine Vision Conference (BMVC)  2017.         [C26]
+- Tong Shen, Guosheng Lin, **Lingqiao Liu**, Chunhua Shen, Ian Reid. Weakly Supervised Semantic Segmentation Based on Co-segmentation . British Machine Vision Conference (BMVC)  2017.         [C26]
 
--Ruizhi Qiao, **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. Visually Aligned Word Embeddings for Improving Zero-shot Learning. (ORAL)British Machine Vision Conference (BMVC)  2017.         [C25]
+- Ruizhi Qiao, **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. Visually Aligned Word Embeddings for Improving Zero-shot Learning. (ORAL)British Machine Vision Conference (BMVC)  2017.         [C25]
 
--Yao Li, Guosheng Lin, Bohan Zhuang, **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. Sequential Person Recognition in Photo Albums with a Recurrent Network. Computer Vision and Pattern Recognition (CVPR) 2017.          [C24]
+- Yao Li, Guosheng Lin, Bohan Zhuang, **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. Sequential Person Recognition in Photo Albums with a Recurrent Network. Computer Vision and Pattern Recognition (CVPR) 2017.          [C24]
 
--Damien Teney, **Lingqiao Liu**, Anton van den Hengel. Graph-Structured Representations for Visual Question Answering. Computer Vision and Pattern Recognition (CVPR) 2017.          [C23]
+- Damien Teney, **Lingqiao Liu**, Anton van den Hengel. Graph-Structured Representations for Visual Question Answering. Computer Vision and Pattern Recognition (CVPR) 2017.          [C23]
 
--Bohan Zhuang*, **Lingqiao Liu***, Chunhua Shen, Ian Reid. Attend in groups: a weakly-supervised deep learning framework for learning from web data. Computer Vision and Pattern Recognition (CVPR) 2017.  (* Indicates equal contribution.)       [C22]
+- Bohan Zhuang*, **Lingqiao Liu***, Chunhua Shen, Ian Reid. Attend in groups: a weakly-supervised deep learning framework for learning from web data. Computer Vision and Pattern Recognition (CVPR) 2017.  (* Indicates equal contribution.)       [C22]
 
--Peng Wang*, **Lingqiao Liu***, Chunhua Shen, Zi Huang, Anton van den Hengel, Heng Tao Shen, Multi-attention Network for One Shot Learning.Computer Vision and Pattern Recognition (CVPR) 2017.  (* Indicates equal contribution.)         [C21]
+- Peng Wang*, **Lingqiao Liu***, Chunhua Shen, Zi Huang, Anton van den Hengel, Heng Tao Shen, Multi-attention Network for One Shot Learning.Computer Vision and Pattern Recognition (CVPR) 2017.  (* Indicates equal contribution.)         [C21]
 
--Dong Gong, Jie Yang, **Lingqiao Liu**, Yanning Zhang, Ian Reid, Chunhua Shen, Anton van den Hengel, Qinfeng Shi. From Motion Blur to Motion Flow: a Deep Learning Solution for Removing Heterogeneous Motion Blur.  Computer Vision and Pattern Recognition (CVPR) 2017.         [C20]
+- Dong Gong, Jie Yang, **Lingqiao Liu**, Yanning Zhang, Ian Reid, Chunhua Shen, Anton van den Hengel, Qinfeng Shi. From Motion Blur to Motion Flow: a Deep Learning Solution for Removing Heterogeneous Motion Blur.  Computer Vision and Pattern Recognition (CVPR) 2017.         [C20]
 
--Zetao Chen, Adam Jacobson, Niko Sünderhauf, Ben Upcroft, **Lingqiao Liu**, Chunhua Shen, Ian Reid, Michael Milford, Deep Learning Features at Scale for Visual Place Recognition.  International Conference on Robotics and Automation (ICRA). 2017        [C19]
+- Zetao Chen, Adam Jacobson, Niko Sünderhauf, Ben Upcroft, **Lingqiao Liu**, Chunhua Shen, Ian Reid, Michael Milford, Deep Learning Features at Scale for Visual Place Recognition.  International Conference on Robotics and Automation (ICRA). 2017        [C19]
 
 ## 2016
+- Ruizhi Qiao, **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. Learning discriminative trajectorylet detector sets for accurate skeleton-based action recognition. Pattern Recognition. Accepted in 2016        [J12]
 
+- ZongYuan Ge, Chris McCool, Conrad Sanderson, Peng Wang, **Lingqiao Liu**, Ian D. Reid, Peter I. Corke, Exploiting Temporal Information for DCNN-Based Fine-Grained Object Classification.  DICTA 2016.         [C18]
+
+- **Lingqiao Liu***, Peng Wang*, Chunhua Shen, Lei Wang, Anton van den Hengel, Chao Wang, Hengtao Shen. Compositional Model based Fisher Vector Coding for Image Classification. IEEE Transcation Pattern Analysis and Machine Intelligence. Accepted in 2016  (* Indicates equal contribution.)          [J11]
+
+- **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. Cross-convolutional-layer Pooling for Image Recognitions. IEEE Transcation Pattern Analysis and Machine Intelligence. Accepted in 2016       [J10]
+
+- Yao Li*, **Lingqiao Liu***, Chunhua Shen, Anton van den Hengel. Mining Mid-level Visual Patterns with Deep CNN Activations. International Journal on Computer Vision (IJCV), 2016 (* Indicates equal contribution.)        [J9]
+
+- Yao Li*, **Lingqiao Liu***, Chunhua Shen, Anton van den Hengel. Image Co-localization by Mimicking a Good Detector’s Confidence Score Distribution. European Conference on Computer Vision (ECCV), 2016. (* Indicates equal contribution.)         [c17]
+
+- Peng Wang*, **Lingqiao Liu***, Chunhua Shen, Zi Huang, Anton van den Hengel, Heng Tao Shen.What’s Wrong with that Object? Identifying Images of Unusual Objects by Modelling the Detection Score Distribution. Computer Vision and Pattern Recognition (CVPR) 2016. (* Indicates equal contribution.)          [c16]
+
+- Ruizhi Qiao*, **Lingqiao Liu***, Chunhua Shen, Anton van den Hengel. Less is More: Zero-shot Learning from Online Textual Documents with Noise Suppression Mechanism. Computer Vision and Pattern Recognition (CVPR) 2016. (* Indicates equal contribution.)       [c15]
+
+- Qi Wu, Chunhua Shen, Anton van den Hengel, **Lingqiao Liu**, Anthony Dick. What value high level concepts in vision to language problems? Computer Vision and Pattern Recognition (CVPR) 2016.        [c14]
+
+- Peng Wang, Yuanzhouhan Cao, Chunhua Shen, **Lingqiao Liu**, HengTao Shen. Temporal Pyramid Pooling Based Convolutional Neural Network for Action Recognition. IEEE Transactions on Circuits and Systems for Video Technology. Accepted in 2016     [J8]
 
 ## 2015
 
