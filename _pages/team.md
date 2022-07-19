@@ -12,7 +12,7 @@ author_profile: true
 ## Current HDR students and visiting students
 - Qiaoyang Luo
 - Ziqin Zhou
-- Liang Chen
+- [Liang Chen](https://liangchen527.github.io/)
 - Avraham Chapman (MPhil)
 - Jinan Zou (Co-supervised with Prof. Javen Shi)
 - Yuhao Lin (Co-supervised with Prof. Javen Shi)
