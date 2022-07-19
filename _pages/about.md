@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Lingqiao Liu's academic homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to Lingqiao Liu's academic homepage!
+
 ======
 I am currently a Senior Lecturer at the School of Computer Science, The University of Adelaide, Australia. I am also an Academic Member of the Australian Institute for Machine Learning. He is a recipient of ARC DECRA (Discovery Early Career Researcher Award) award in 2016 and the University of Adelaide Research Fellowship award in 2016. 
 
