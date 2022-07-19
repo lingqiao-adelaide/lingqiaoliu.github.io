@@ -138,6 +138,9 @@ author_profile: true
 
 ## 2012
 
+- Xinwang Liu, Lei Wang, Jianping Yin, **Lingqiao Liu**. Incorporation of radius-info can be simple with SimpleMKL,  Neurocomputing, Vol 89: 30-38, 2012    [J1]
+
+- **Lingqiao Liu**, Lei Wang. What has my classifier learned? Visualizing the classification rules of bag-of-feature model by support region detection,  Computer Vision and Pattern Recognition (CVPR) 2012, pp 3586-3593      [c4]
 
 ## 2011
 - **Lingqiao Liu**, Lei Wang, Chunhua Shen. A generalized probabilistic framework for compact codebook creation, Computer Vision and Pattern Recognition (CVPR) 2011, pp 1537-1544.    [c3]
