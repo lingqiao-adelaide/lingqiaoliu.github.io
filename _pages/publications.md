@@ -18,17 +18,17 @@ Liangyi Kang, Jie Liu, **Lingqiao Liu**, Zhiyang Zhou, Dan Ye: Semi-supervised e
 
 - Wanxuan Lu, Dong Gong, Kun Fu, Xian Sun, Wenhui Diao, **Lingqiao Liu**: Boundarymix: Generating pseudo-training images for improving segmentation with scribble annotations. Pattern Recognit. 117: 107924 (2021) [J22]
 
-- Haibo Su, Peng Wang,  **Lingqiao Liu **, Hui Li, Zhen Li, Yanning Zhang: Where to Look and How to Describe: Fashion Image Retrieval With an Attentional Heterogeneous Bilinear Network. IEEE Trans. Circuits Syst. Video Technol. 31(8): 3254-3265 (2021) [J21]
+- Haibo Su, Peng Wang,  **Lingqiao Liu**, Hui Li, Zhen Li, Yanning Zhang: Where to Look and How to Describe: Fashion Image Retrieval With an Attentional Heterogeneous Bilinear Network. IEEE Trans. Circuits Syst. Video Technol. 31(8): 3254-3265 (2021) [J21]
 
-- Duo Peng, Yinjie Lei,  **Lingqiao Liu **, Pingping Zhang, Jun Liu: Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation. IEEE Trans. Image Process. 30: 6594-6608 (2021) [J20]
+- Duo Peng, Yinjie Lei,  **Lingqiao Liu**, Pingping Zhang, Jun Liu: Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation. IEEE Trans. Image Process. 30: 6594-6608 (2021) [J20]
 
-- Qiaoyang Luo,  **Lingqiao Liu **, Yuhao Lin, Wei Zhang: Don't Miss the Labels: Label-semantic Augmented Meta-Learner for Few-Shot Text Classification. ACL/IJCNLP (Findings) 2021: 2773-2782 [c42]
+- Qiaoyang Luo,  **Lingqiao Liu**, Yuhao Lin, Wei Zhang: Don't Miss the Labels: Label-semantic Augmented Meta-Learner for Few-Shot Text Classification. ACL/IJCNLP (Findings) 2021: 2773-2782 [c42]
 
-- Hai-Ming Xu,  **Lingqiao Liu **, Dong Gong: Semi-supervised Learning via Conditional Rotation Angle Estimation. DICTA 2021: 1-8 [C41]
+- Hai-Ming Xu,  **Lingqiao Liu**, Dong Gong: Semi-supervised Learning via Conditional Rotation Angle Estimation. DICTA 2021: 1-8 [C41]
 
-- Liangyi Kang, Jie Liu,  **Lingqiao Liu **, Dan Ye: Label Definitions Augmented Interaction Model for Legal Charge Prediction. ECIR (1) 2021: 270-283 [C40]
+- Liangyi Kang, Jie Liu,  **Lingqiao Liu**, Dan Ye: Label Definitions Augmented Interaction Model for Legal Charge Prediction. ECIR (1) 2021: 270-283 [C40]
 
-- Yanjie Gou, Yinjie Lei,  **Lingqiao Liu **, Yong Dai, Chunxu Shen:
+- Yanjie Gou, Yinjie Lei,  **Lingqiao Liu**, Yong Dai, Chunxu Shen:
 Contextualize Knowledge Bases with Transformer for End-to-end Task-Oriented Dialogue Systems. EMNLP (1) 2021: 4300-4310 [C39]
 
 
