@@ -31,3 +31,35 @@ author_profile: true
 - Bohan Zhuang, **Lingqiao Liu**, Mingkui Tan, Chunhua Shen, Ian Reid. Training Quantized Neural Networks with the Full-precision Auxiliary Module.IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.  [C35]
 
 - Damien Teney, Peng Wang, Jiewei Cao, **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. V-PROM: A Benchmark for Visual Reasoning Using Visual Progressive Matrices. AAAI 2020.  [C34]
+
+
+## 2019
+
+
+## 2018
+
+
+## 2017
+
+
+## 2016
+
+
+## 2015
+
+
+## 2014
+
+
+## 2013
+
+
+## 2012
+
+
+## 2011
+- **Lingqiao Liu**, Lei Wang, Chunhua Shen. A generalized probabilistic framework for compact codebook creation, Computer Vision and Pattern Recognition (CVPR) 2011, pp 1537-1544.    [c3]
+
+- **Lingqiao Liu**, Lei Wang, Xinwang Liu. In defense of soft-assignment coding, 2011 IEEE International Conference on Computer Vision (ICCV), pp 2486-2493.     [c2]
+
+- **Lingqiao Liu**, Lei Wang. Exploring latent class information for image retrieval using the bag-of-feature model, ACM Multimedia 2011, pp 1405-1408.     [c1]
