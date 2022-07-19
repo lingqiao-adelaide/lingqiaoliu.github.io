@@ -1,4 +1,3 @@
-
 ---
 permalink: /team/
 title: "Research Team member and Collaborators"
