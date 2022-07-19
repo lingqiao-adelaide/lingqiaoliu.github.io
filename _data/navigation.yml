@@ -9,4 +9,7 @@ main:
   - title: "Projects"
     url: /posts/    
     
+  - title: "Test"
+    url: /test/
+    
 
