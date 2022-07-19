@@ -23,13 +23,13 @@ The goal of this research theme is to build machine learning systems that are ge
 **Related Publications**
 
 - Bingliang Jiao, **Lingqiao Liu**, Liying Gao, Guosheng Lin, Lu Yang, Shizhou Zhang, Peng Wang, Yanning Zhang: Dynamically Transformed Instance Normalization Network for Generalizable Person Re-identification. ECCV 2022 
-- 
+
 - Liang Chen, Yong Zhang, Yibing Song, **Lingqiao Liu**, Jue Wang: Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection. CVPR 2022 
 
 - Duo Peng, Yinjie Lei,  **Lingqiao Liu**, Pingping Zhang, Jun Liu: Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation. IEEE Trans. Image Process. 30: 6594-6608 (2021)
-- 
+
 ## Rationale-guided Machine Learning
-Standard machine learning 
+Most machine learning system is based on the principle of Empircal Risk Minimization. Any features and classifiers that contributes to risk minimization will be learned. In this research theme, we consider ``prediction rationale'' -- clues about why a certain decision is made into the learning process. We are investigating how to represent rationale and how to put forward various regularization on the rationale clues.
 
 **Related Publications**
 
