@@ -100,12 +100,41 @@ author_profile: true
 
 ## 2015
 
+- Lei Wang, **Lingqiao Liu**, and Luping Zhou, A Graph-embedding Approach to Hierarchical Visual Word Mergence, IEEE Transactions on Neural Networks and Learning Systems, Accepted in Dec 2015.      [J7]
+
+- Luping Zhou, Lei Wang, **Lingqiao Liu**, Philip Ogunbona, and Dinggang Shen, Learning Discriminative Bayesian Networks from High-dimensional Continuous Neuroimaging Data, IEEE Transactions on Pattern Analysis and Machine Intelligence, Accepted in Nov 2015.      [J6]
+
+- **Lingqiao Liu**,  Lei Wang,  Chunhua Shen,  A generalized probabilistic framework for compact codebook creation, IEEE Transcation Pattern Analysis and Machine Intelligence. Accepted in April 2015      [J5]
+
+- Chao Wang, Lei Wang, **Lingqiao Liu**, Density Maximization for Improving Graph Matching with Its Applications, IEEE Transactions on Image Processing, Accepted in March 2015.      [J4]
+
+- **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. The Treasure beneath Convolutional Layers: Cross-convolutional-layer Pooling for Image Classification. Computer Vision and Pattern Recognition (CVPR) 2015.      [c13]
+
+- Yao Li*, **Lingqiao Liu***, Chunhua Shen, Anton van den Hengel. Mid-level Deep Pattern Mining, Computer Vision and Pattern Recognition (CVPR) 2015. (* Indicates equal contribution.)     [c12]
 
 ## 2014
 
+- Lei Wang, **Lingqiao Liu**, Luping Zhou, KL Chan. Application of SVMs to the Bag-of-Features Model: A Kernel Perspective, In Support Vector Machines  Applications, pp 155-189. Published by Springer in January 2014.     [B1]
+
+- **Lingqiao Liu**, Lei Wang. HEp-2 cell image classification with multiple linear descriptors, Pattern Recognition, Vol 47(7): 2400-2408, 2014      [J3]
+
+- Lei Wang, Luping Zhou, Chunhua Shen, **Lingqiao Liu**, Huan Liu. A Hierarchical Word-Merging Algorithm with Class Separability Measure, IEEE Transcation Pattern Analysis and Machine Intelligence. Vol.36(3): 417-435, 2014         [J2]
+
+- **Lingqiao Liu**, Chunhua Shen, Lei Wang, Anton van den Hengel, Chao Wang. Encoding high-dimensional local features by sparse coding based fisher vectors,  Advances in Neural Information Processing Systems (NIPS) 2014, pp 1143-1151, June 2014.       [c11]
+
+- Chao Wang, Lei Wang, **Lingqiao Liu**, Progressive Mode-Seeking on Graphs for Sparse Feature Matching,  European Conference on Computer Vision (ECCV), pp 788-802, 2014      [c10]
+
+- Luping Zhou, Lei Wang, **Lingqiao Liu**, Philip Ogunbona, Dinggang Shen. Max-Margin Based Learning for Discriminative Bayesian Network from Neuroimaging Data,  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp: 321-328, 2014          [c9]
 
 ## 2013
 
+- Luping Zhou, Lei Wang, **Lingqiao Liu**, Philip Ogunbona, Dinggang Shen. Discriminative Brain Effective Connectivity Analysis for Alzheimer’s Disease: A Kernel Learning Approach upon Sparse Gaussian Bayesian Network, Computer Vision and Pattern Recognition (CVPR) 2013, pp 2243-2250.        [c8]
+
+- Jianjia Zhang, Lei Wang, **Lingqiao Liu**, Luping Zhou, Wanqing Li. Accelerating the Divisive Information-Theoretic Clustering of Visual Words, The International Conference on Digital Image Computing: Techniques and Applications (DICTA), 2013, pp 1-8.     [c7]
+
+- **Lingqiao Liu**, Lei Wang. A Scalable Unsupervised Feature Merging Approach to Efficient Dimensionality Reduction of High Dimensional Visual Data, IEEE International Conference on Computer Vision (ICCV), 2013. pp 3008-3015      [c6]
+
+- Chao Wang, Lei Wang, **Lingqiao Liu**. Improving Graph Matching via Density Maximization, 2013 IEEE International Conference on Computer Vision (ICCV), 2013. pp 3424-3431   [c5]
 
 ## 2012
 
