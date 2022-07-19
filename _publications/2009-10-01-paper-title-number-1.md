@@ -1,7 +1,6 @@
 ---
-title: "Paper Title Number 1"
+title: "2022"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 ---
 Hello
 
