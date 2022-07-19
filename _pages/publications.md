@@ -7,6 +7,18 @@ author_profile: true
 ## 2022
 
 
+- Yingjie Zhou, Xucheng Song, Yanru Zhang, Fanxing Liu, Ce Zhu, **Lingqiao Liu***: Feature Encoding With Autoencoders for Weakly Supervised Anomaly Detection. IEEE Trans. Neural Networks Learn. Syst. 33(6): 2454-2465 (2022) [J26]
+
+- Lu Yang, Hongbang Liu, **Lingqiao Liu**, Jinghao Zhou, Lei Zhang, Peng Wang, Yanning Zhang:Pluggable Weakly-Supervised Cross-View Learning for Accurate Vehicle Re-Identification. ICMR 2022: 81-89 [C46]
+
+
+- Liang Chen, Yong Zhang, Yibing Song, **Lingqiao Liu**, Jue Wang: Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection. CVPR 2022 (Oral) [C45]
+
+- Hai-Ming Xu, **Lingqiao Liu**, Ehsan Abbasnejad: Progressive Class Semantic Matching for Semi-supervised Text Classification. NAACL-HLT 2022: 3003-3013 2022 (Oral) [C44]
+
+- Jinan Zou, Haiyao Cao, **Lingqiao Liu**, Yuhao Lin, Ehsan Abbasnejad, Javen Qinfeng Shi: Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model. CoRR abs/2206.06606 (2022) [C43]
+
+
 
 ## 2021
 
