@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 ## Low-supervision Learning via Knowledge Transfer from Pretrained Models
-This research theme investigates methods that can use a small amount of supervision to build a machine learning system. In particular, we are interested in transfering knowledge learned from a pretrained model to achieve this goal. At the application level, this project encompasses a wide range of applications, examples including image or text classification, dense prediction such as semantic or instance segmentation, information extraction in NLP, content generation etc.
-
+This research theme investigates methods that can use a small amount of supervision to build a machine learning system. In particular, we are interested in transferring knowledge learned from a pre-trained model to achieve this goal. At the application level, this project encompasses a wide range of applications, examples including image or text classification, dense prediction such as semantic or instance segmentation, information extraction in NLP, content generation, etc.
 
 **Related Publications**
 - Hai-Ming Xu, **Lingqiao Liu**, Ehsan Abbasnejad: Progressive Class Semantic Matching for Semi-supervised Text Classification. NAACL-HLT 2022: 3003-3013 2022 (Oral) 
@@ -15,10 +14,10 @@ This research theme investigates methods that can use a small amount of supervis
 
 
 ## Life-long Maintenance for Machine Learning systems 
-Building a machine learning system can be more complicated than a one-shot training process. Continual learning and adaptation in the deploying environment, monitoring and providing feedback of system failure could also be important features that an ideal machine learning system should have. In this theme, we will explore various techniques to perform life-long maintenance for machine learning systems, including continual learning, source-free adaptation, model editing etc.
+Building a real-world machine learning system can be more complicated than a one-shot training process. Continual learning and adaptation in the deploying environment, monitoring, and correcting system error could also be essential features that an ideal machine learning system should have. In this theme, we will explore various techniques to perform life-long maintenance for machine learning systems, including continual learning, source-free adaptation, model editing, etc.
 
 ## Generalisable Machine Learning Systems
-The goal of this research theme is to build machine learning systems that are generalisable across different test environment and tasks.This encompasses domain generalization, cross-task generalization, and compositional generalization.
+The goal of this research theme is to build machine learning systems that are generalizable across different test environments and tasks. This encompasses domain generalization, cross-task generalization, and compositional generalization.
 
 **Related Publications**
 
@@ -29,7 +28,7 @@ The goal of this research theme is to build machine learning systems that are ge
 - Duo Peng, Yinjie Lei,  **Lingqiao Liu**, Pingping Zhang, Jun Liu: Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation. IEEE Trans. Image Process. 30: 6594-6608 (2021)
 
 ##  Rationale-guided Machine Learning
-Most machine learning system is based on the principle of Empircal Risk Minimization. Any features and classifiers that contributes to risk minimization will be learned. In this research theme, we consider ``prediction rationale'' -- clues about why a certain decision is made into the learning process. We are investigating how to represent rationale and how to put forward various regularization on the rationale clues.
+The most machine learning system is based on the principle of Empirical Risk Minimization. Any features and classifiers that contribute to risk minimization will be acquired from the learning process. In this research theme, we consider ``prediction rationale'' -- clues about why a certain decision is made in the learning process. We are investigating how to represent rationale and how to put forward various regularizations on the rationale clues. This is expected to lead to more generalizable or more data-efficient machine learning systems.
 
 **Related Publications**
 
