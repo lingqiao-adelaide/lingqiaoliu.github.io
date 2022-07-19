@@ -19,6 +19,8 @@ author_profile: true
 
 - Hai-Ming Xu, **Lingqiao Liu***, Ehsan Abbasnejad: Progressive Class Semantic Matching for Semi-supervised Text Classification. NAACL-HLT 2022: 3003-3013 2022 (Oral) [C44]
 
+- Bohan Zhuang, Chunhua Shen, Mingkui Tan, Peng Chen, **Lingqiao Liu**, Ian Reid:  Structured Binary Neural Networks for Image Recognition. IJCV (Accepted in 2022)
+
 
 
 
