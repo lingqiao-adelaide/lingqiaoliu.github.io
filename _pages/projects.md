@@ -20,7 +20,7 @@ Building a machine learning system can be more complicated than a one-shot train
 ## Generalisable Machine Learning Systems
 The goal of this research theme is to build machine learning systems that are generalisable across different test environment and tasks.This encompasses domain generalization, cross-task generalization, and compositional generalization.
 
-### Related Publications
+**Related Publications**
 
 - Bingliang Jiao, **Lingqiao Liu**, Liying Gao, Guosheng Lin, Lu Yang, Shizhou Zhang, Peng Wang, Yanning Zhang: Dynamically Transformed Instance Normalization Network for Generalizable Person Re-identification. ECCV 2022 
 - 
@@ -31,6 +31,6 @@ The goal of this research theme is to build machine learning systems that are ge
 ## Rationale-guided Machine Learning
 Standard machine learning 
 
-### Related Publications
+**Related Publications**
 
 - Yangyang Shu, Baosheng Yu, Haiming Xu, **Lingqiao Liu***: Improving Fine-grained Visual Recognition in Low Data Regimes via Self-boosting Attention Mechanism. ECCV 2022 
