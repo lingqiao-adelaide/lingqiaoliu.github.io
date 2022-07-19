@@ -35,13 +35,13 @@ author_profile: true
 
 ## 2019
 - Yinjie Lei, Ziqin Zhou, Pingping Zhang, Yulan Guo, ZijunMa, **Lingqiao Liu**. Deep point-to-subspace metric learning for sketch-based 3D shape retrieval. Pattern Recognition,  2019. [J16]
-- 
+
 - Shengqin Jiang, Xiaobo Lu, **Lingqiao Liu**. Mask-aware networks for crowd counting.  IEEE Transactions on Circuits and Systems for Video Technology. 2019. [J15]
 
 - Dong Gong, **Lingqiao Liu**, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel. Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection. IEEE International Conference on Computer Vision (ICCV)  2019. [C33]
 
 - Xiu-Shen Wei, Peng Wang, **Lingqiao Liu**, Chunhua Shen, Jianxin Wu. Piecewise classifier mappings:Learning fine-grained learners for novel categories with few examples. IEEE Transactions on Image Processing, Accepted in May 2019. [J14]
-- 
+
 - Ehsan Abbasnejad, Javen Shi, Anton van den Hengel, **Lingqiao Liu**. A Generative Adversarial Density Estimator. In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR ), 2019.   [C32]
 
 - Bohan Zhuang, Chunhua Shen, Mingkui Tan, **Lingqiao Liu**, Ian Reid. Structured Binary Neural Networks for Accurate Image Classification and Semantic Segmentation, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.   [C31]
@@ -51,10 +51,31 @@ author_profile: true
 - Yu Chen, Chunhua Shen, Hao Chen, Xiu-Shen Wei, **Lingqiao Liu**, Jian Yang. Adversarial Learning of Structure-Aware Fully Convolutional Networks for Landmark Localization, IEEE Transcation Pattern Analysis and Machine Intelligence. Accepted in 2019 .   [J13]
 
 ## 2018
+- Jie Yang, Dong Gong, **Lingqiao Liu**, Qinfeng Shi. Seeing Deeply and Bidirectionally: A Deep Learning Approach for Single Image Reflection Removal. In European Conference on Computer Vision (ECCV), 2018.   [C30]
 
+- Zetao Chen, **Lingqiao Liu**, Inkyu Sa, Zongyuan Ge, Margarita Chli, Learning Context Flexible Attention Model for Long-term Visual Place Recognition. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2018 .         [C29]
+
+- Bohan Zhuang, Chunhua Shen, Mingkui Tan, **Lingqiao Liu**, Ian Reid, Towards effective low-bitwidth convolutional neural networks. Computer Vision and Pattern Recognition (CVPR) 2018 .          [C28]
 
 ## 2017
 
+-Bohan Zhuang*, **Lingqiao Liu***, Chunhua Shen, Ian Reid. Towards Context-aware Interaction Recognition for Visual Relationship Detection. IEEE International Conference on Computer Vision (ICCV)  2017.  (* Indicates equal contribution.)          [C27]
+
+-Tong Shen, Guosheng Lin, **Lingqiao Liu**, Chunhua Shen, Ian Reid. Weakly Supervised Semantic Segmentation Based on Co-segmentation . British Machine Vision Conference (BMVC)  2017.         [C26]
+
+-Ruizhi Qiao, **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. Visually Aligned Word Embeddings for Improving Zero-shot Learning. (ORAL)British Machine Vision Conference (BMVC)  2017.         [C25]
+
+-Yao Li, Guosheng Lin, Bohan Zhuang, **Lingqiao Liu**, Chunhua Shen, Anton van den Hengel. Sequential Person Recognition in Photo Albums with a Recurrent Network. Computer Vision and Pattern Recognition (CVPR) 2017.          [C24]
+
+-Damien Teney, **Lingqiao Liu**, Anton van den Hengel. Graph-Structured Representations for Visual Question Answering. Computer Vision and Pattern Recognition (CVPR) 2017.          [C23]
+
+-Bohan Zhuang*, **Lingqiao Liu***, Chunhua Shen, Ian Reid. Attend in groups: a weakly-supervised deep learning framework for learning from web data. Computer Vision and Pattern Recognition (CVPR) 2017.  (* Indicates equal contribution.)       [C22]
+
+-Peng Wang*, **Lingqiao Liu***, Chunhua Shen, Zi Huang, Anton van den Hengel, Heng Tao Shen, Multi-attention Network for One Shot Learning.Computer Vision and Pattern Recognition (CVPR) 2017.  (* Indicates equal contribution.)         [C21]
+
+-Dong Gong, Jie Yang, **Lingqiao Liu**, Yanning Zhang, Ian Reid, Chunhua Shen, Anton van den Hengel, Qinfeng Shi. From Motion Blur to Motion Flow: a Deep Learning Solution for Removing Heterogeneous Motion Blur.  Computer Vision and Pattern Recognition (CVPR) 2017.         [C20]
+
+-Zetao Chen, Adam Jacobson, Niko Sünderhauf, Ben Upcroft, **Lingqiao Liu**, Chunhua Shen, Ian Reid, Michael Milford, Deep Learning Features at Scale for Visual Place Recognition.  International Conference on Robotics and Automation (ICRA). 2017        [C19]
 
 ## 2016
 
