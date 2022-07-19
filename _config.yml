@@ -170,7 +170,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  #_test
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
