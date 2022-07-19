@@ -1,8 +1,13 @@
 ---
-permalink: /test/
-title: "test"
+permalink: /projects/
+title: "Active Research Project & Directions"
 author_profile: true
 ---
 
+# Low-supervision Learning via Knowledge Transfer from Pretrained Models
 
-Hello world
+
+# Generalisable Machine Learning Systems
+
+
+# Rationale-guided Machine Learning
