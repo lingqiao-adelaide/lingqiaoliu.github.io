@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "Research Team member and Collaborators"
+title: "Research Team members"
 author_profile: true
 ---
 
