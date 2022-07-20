@@ -16,6 +16,9 @@ This research theme investigates methods that can use a small amount of supervis
 ## Life-long Maintenance for Machine Learning systems 
 Building a real-world machine learning system can be more complicated than a one-shot training process. Continual learning and adaptation in the deploying environment, monitoring, and correcting system error could also be essential features that an ideal machine learning system should have. In this theme, we will explore various techniques to perform life-long maintenance for machine learning systems, including continual learning, source-free adaptation, model editing, etc.
 
+**Related Publications**
+- Yuxuan Ding, Lingqiao Liu*, Chunna Tian, Jingyuan Yang, Haoxuan Ding, Don't Stop Learning: Towards Continual Learning for the CLIP Model, arxiv 2022
+
 ## Generalisable Machine Learning Systems
 The goal of this research theme is to build machine learning systems that are generalizable across different test environments and tasks. This encompasses domain generalization, cross-task generalization, and compositional generalization.
 
