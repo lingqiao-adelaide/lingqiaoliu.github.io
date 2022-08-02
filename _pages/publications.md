@@ -6,6 +6,8 @@ author_profile: true
 ---
 ## 2022
 
+- Lu Yang, Yunlong Wang, Lingqiao Liu, Peng Wang, Yanning Zhang: Center Prediction Loss for Re-identification. Pattern Recognition. Available online 28 July 2022, 108949 [J27]
+
 - Yangyang Shu, Baosheng Yu, Haiming Xu, Lingqiao Liu*: Improving Fine-grained Visual Recognition in Low Data Regimes via Self-boosting Attention Mechanism. ECCV 2022 [C48]
 
 - Bingliang Jiao, Lingqiao Liu, Liying Gao, Guosheng Lin, Lu Yang, Shizhou Zhang, Peng Wang, Yanning Zhang: Dynamically Transformed Instance Normalization Network for Generalizable Person Re-identification. ECCV 2022 [C47]
@@ -19,7 +21,7 @@ author_profile: true
 
 - Hai-Ming Xu, Lingqiao Liu*, Ehsan Abbasnejad: Progressive Class Semantic Matching for Semi-supervised Text Classification. NAACL-HLT 2022: 3003-3013 2022 (Oral) [C44]
 
-- Bohan Zhuang, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid:  Structured Binary Neural Networks for Image Recognition. IJCV (Accepted in 2022)
+- Bohan Zhuang, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid:  Structured Binary Neural Networks for Image Recognition. IJCV (Accepted in 2022) [J26]
 
 
 
