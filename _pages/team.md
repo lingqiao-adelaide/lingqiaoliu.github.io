@@ -19,7 +19,7 @@ author_profile: true
 - Xuan Ren  (Co-supervised with Dr. Zhibin Liao)
 
 ## Past HDR and visiting students
-- Haiming Xu
+- Dr. Haiming Xu
 - Dr. Wanxuan Lu
 - Dr. Xu Wang
 - Dr. Shengqin Jiang
