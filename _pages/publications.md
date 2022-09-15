@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+- Liang Chen, Yong Zhang, Yibing Song, Jue Wang, Lingqiao Liu*: OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training. NeurIPS 2022. [C50]
+
+- Haiming Xu, Lingqiao Liu*, Qiuchen Bian, Zhen Yang: Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization. NeurIPS 2022 [C49]
 
 - Lu Yang, Yunlong Wang, Lingqiao Liu, Peng Wang, Yanning Zhang: Center Prediction Loss for Re-identification. Pattern Recognition. Available online 28 July 2022, 108949 [J27]
 
