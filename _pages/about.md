@@ -15,7 +15,8 @@ I have broad interests in machine learning, computer vision and natural language
 
 News
 ======
-1. (September 2022) 2 paers accepted to appear at NeurIPS 2022
+1. (October 2022) 1 paper accepted to appear at BMVC 2022
+1. (September 2022) 2 papers accepted to appear at NeurIPS 2022
 1. (July 2022) 2 papers accepted to appear at ECCV 2022
 1. (April 2022) 1 paper accepted as ORAL paper to appear at NAACL 2022 
 1. (March 2022) 1 paper accepted as ORAL paper to appear at CVPR 2022 
