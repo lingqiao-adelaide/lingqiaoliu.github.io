@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+- Avraham Chapman, Lingqiao Liu: Regularizing Neural Network Training via Identity-wise Discriminative Feature Suppression. DICTA 2022 [C52]
+
+- Haiming Xu, Hao Chen, Yufei Yin, Lingqiao Liu: Dual Decision Improves Open-Set Panoptic Segmentation. BMVC 2022 [C51]
+
 - Liang Chen, Yong Zhang, Yibing Song, Jue Wang, Lingqiao Liu*: OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training. NeurIPS 2022. [C50]
 
 - Haiming Xu, Lingqiao Liu*, Qiuchen Bian, Zhen Yang: Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization. NeurIPS 2022 [C49]
