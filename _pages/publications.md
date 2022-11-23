@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+- Qiaoyang Luo, Lingqiao Liu*: Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor. AAAI 2023 [C53]
+
 - Avraham Chapman, Lingqiao Liu: Regularizing Neural Network Training via Identity-wise Discriminative Feature Suppression. DICTA 2022 [C52]
 
 - Haiming Xu, Hao Chen, Yufei Yin, Lingqiao Liu: Dual Decision Improves Open-Set Panoptic Segmentation. BMVC 2022 [C51]
