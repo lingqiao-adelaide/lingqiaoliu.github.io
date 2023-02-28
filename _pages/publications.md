@@ -4,6 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2023
+- Ziqin Zhou, Yinjie Lei, Bowen Zhang, Lingqiao Liu*, Yifan liu: ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation. CVPR 2023 [C58]
+
+- Yangyang Shu, Anton van den Hengel, Lingqiao Liu*: Learning Common Rationale to Improve Self-Supervised Representation for Fine-Grained Visual Recognition Problems. CVPR 2023 [C57]
+
+- Liang Chen, Yong Zhang, Yibing Song, Ying Shan, Lingqiao Liu*: Improved Test-Time Adaptation for Domain Generalization. CVPR 2023 [C56]
+
+- Zhanyu Wang, Lingqiao Liu, Lei Wang, Luping Zhou: METransformer: Radiology Report Generation by Transformer with Multiple Expert Learners. CVPR 2023 [C55]
+
+- Qingsheng Wang, Lingqiao Liu, Chenchen Jing, Hao Chen, Guoqiang Liang, PENG WANG, Chunhua Shen: Learning Conditional Attributes for Compositional Zero-Shot Learning. CVPR 2023 [C54]
+
+
 ## 2022
 - Qiaoyang Luo, Lingqiao Liu*: Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor. AAAI 2023 [C53]
 
