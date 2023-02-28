@@ -12,6 +12,10 @@ This research theme investigates methods that can use a small amount of supervis
 
 - Qiaoyang Luo,  Lingqiao Liu*, Yuhao Lin, Wei Zhang: Don't Miss the Labels: Label-semantic Augmented Meta-Learner for Few-Shot Text Classification. ACL/IJCNLP (Findings) 2021: 2773-2782
 
+- Qiaoyang Luo, Lingqiao Liu*: Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor. AAAI 2023 
+
+- Ziqin Zhou, Yinjie Lei, Bowen Zhang, Lingqiao Liu*, Yifan liu: ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation. CVPR 2023
+
 
 ## Life-long Maintenance for Machine Learning systems 
 Building a real-world machine learning system can be more complicated than a one-shot training process. Continual learning and adaptation in the deploying environment, monitoring, and correcting system error could also be essential features that an ideal machine learning system should have. In this theme, we will explore various techniques to perform life-long maintenance for machine learning systems, including continual learning, source-free adaptation, model editing, etc.
@@ -30,9 +34,15 @@ The goal of this research theme is to build machine learning systems that are ge
 
 - Duo Peng, Yinjie Lei,  Lingqiao Liu, Pingping Zhang, Jun Liu: Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation. IEEE Trans. Image Process. 30: 6594-6608 (2021)
 
+- Liang Chen, Yong Zhang, Yibing Song, Jue Wang, Lingqiao Liu*: OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training. NeurIPS 2022
+
+- Liang Chen, Yong Zhang, Yibing Song, Ying Shan, Lingqiao Liu*: Improved Test-Time Adaptation for Domain Generalization. CVPR 2023
+
 ##  Rationale-guided Machine Learning
 The most machine learning system is based on the principle of Empirical Risk Minimization. Any features and classifiers that contribute to risk minimization will be acquired from the learning process. In this research theme, we consider ``prediction rationale'' -- clues about why a certain decision is made in the learning process. We are investigating how to represent rationale and how to put forward various regularizations on the rationale clues. This is expected to lead to more generalizable or more data-efficient machine learning systems.
 
 **Related Publications**
 
 - Yangyang Shu, Baosheng Yu, Haiming Xu, Lingqiao Liu*: Improving Fine-grained Visual Recognition in Low Data Regimes via Self-boosting Attention Mechanism. ECCV 2022 
+
+- Yangyang Shu, Anton van den Hengel, Lingqiao Liu*: Learning Common Rationale to Improve Self-Supervised Representation for Fine-Grained Visual Recognition Problems. CVPR 2023
