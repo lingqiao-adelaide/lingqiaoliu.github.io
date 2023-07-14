@@ -15,6 +15,7 @@ I have broad interests in machine learning, computer vision and natural language
 
 News
 ======
+1. (July 2023) 1 paper accepted to appear at ICCV 2023
 1. (February 2023) 5 papers accepted to appear at CVPR 2023
 1. (November 2022) 1 paper accepted to appear at AAAI 2023
 1. (October 2022) 1 paper accepted to appear at BMVC 2022
