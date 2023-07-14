@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
+- Liang Chen, Yong Zhang, Yibin Song, Anton van den Hengel, Lingqiao Liu*: Domain Generalization via Rationale Invariance. ICCV 2023 [C59]
+  
 - Ziqin Zhou, Yinjie Lei, Bowen Zhang, Lingqiao Liu*, Yifan liu: ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation. CVPR 2023 [C58]
 
 - Yangyang Shu, Anton van den Hengel, Lingqiao Liu*: Learning Common Rationale to Improve Self-Supervised Representation for Fine-Grained Visual Recognition Problems. CVPR 2023 [C57]
