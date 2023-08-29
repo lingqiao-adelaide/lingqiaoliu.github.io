@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
+- Lin Wu, Lingqiao Liu, Yang Wang, Zheng Zhang, Farid Boussaid, Mohammed Bennamoun: Learning Resolution-Adaptive Representations for
+Cross-Resolution Person Re-Identification. IEEE Transcation on Image Processing 2023 [J27]
+
+- Xizhe Xue, Dongdong Yu, Lingqiao Liu, Yu Liu, Satoshi Tsutsui, Ying Li, Zehuan Yuan, Ping Song, Mike Zheng Shou: Transformer-based Open-world Instance Segmentation with Cross-task Consistency Regularization. ACM MM 2023 [C60]
+- 
 - Liang Chen, Yong Zhang, Yibin Song, Anton van den Hengel, Lingqiao Liu*: Domain Generalization via Rationale Invariance. ICCV 2023 [C59]
   
 - Ziqin Zhou, Yinjie Lei, Bowen Zhang, Lingqiao Liu*, Yifan liu: ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation. CVPR 2023 [C58]
