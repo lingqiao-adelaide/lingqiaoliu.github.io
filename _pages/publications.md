@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
+- Yutong Xie, Jianpeng Zhang, Lingqiao Liu, Hu Wang, Yiwen Ye, Verjans Johan, Yong Xia, "ReFs: A Hybrid Pre-training Paradigm for 3D Medical Image Segmentation", Medical Image Analysis 2023.[J28]
+
+- Bingliang Jiao, Lingqiao Liu, Liying Gao, Guosheng Lin, Peng Wang, Yanning Zhang: Toward Re-Identifying Any Animal. NeurIPS 2023 [C62]
+
+- Yuxuan Ding, Chunna Tian, Haoxuan Ding, Lingqiao Liu*: The CLIP Model is Secretly an Image-to-Prompt Converter. NeurIPS 2023 [C61]
+  
 - Lin Wu, Lingqiao Liu, Yang Wang, Zheng Zhang, Farid Boussaid, Mohammed Bennamoun: Learning Resolution-Adaptive Representations for
 Cross-Resolution Person Re-Identification. IEEE Transcation on Image Processing 2023 [J27]
 
