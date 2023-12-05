@@ -23,12 +23,7 @@ News
 1. (September 2022) 2 papers accepted to appear at NeurIPS 2022
 1. (July 2022) 2 papers accepted to appear at ECCV 2022
 1. (April 2022) 1 paper accepted as ORAL paper to appear at NAACL 2022 
-1. (March 2022) 1 paper accepted as ORAL paper to appear at CVPR 2022 
-
-**Positions**
--------
-- 2 PhD positions with full scholarship (one in computer vision and one in NLP)
-- 3 Postdoc positions available 
+1. (March 2022) 1 paper accepted as ORAL paper to appear at CVPR 2022
 
 Contact
 ------
