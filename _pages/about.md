@@ -15,6 +15,7 @@ I have broad interests in machine learning, computer vision and natural language
 
 News
 ======
+1. (Feb 2024) 2 papers accepted to appear at CVPR 2024
 1. (Sep 2023) 2 papers accepted to appear at NeurIPS 2023
 1. (July 2023) 1 paper accepted to appear at ICCV 2023
 1. (February 2023) 5 papers accepted to appear at CVPR 2023
