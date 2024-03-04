@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
-- Minh Hieu Phan, Yutong Xie, Yuankai Qi, Lingqiao Liu, Liyang Liu, Bowen Zhang, Zhibin Liao, Qi Wu, Minh-Son To, Johan W. Verjans, "Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework", CVPR 2024
+- Minh Hieu Phan, Yutong Xie, Yuankai Qi, Lingqiao Liu, Liyang Liu, Bowen Zhang, Zhibin Liao, Qi Wu, Minh-Son To, Johan W. Verjans, "Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework", CVPR 2024 [C64]
 
-- Ziqin Zhou, Haiming Xu, Yangyang Shu, Lingqiao Liu*, Unlocking the Potential of Pre-trained Vision Transformers for Few-Shot Semantic Segmentation through Relationship Descriptors. CVPR 2024
+- Ziqin Zhou, Haiming Xu, Yangyang Shu, Lingqiao Liu*, Unlocking the Potential of Pre-trained Vision Transformers for Few-Shot Semantic Segmentation through Relationship Descriptors. CVPR 2024 [C63]
    
 ## 2023
 - Yutong Xie, Jianpeng Zhang, Lingqiao Liu, Hu Wang, Yiwen Ye, Verjans Johan, Yong Xia, "ReFs: A Hybrid Pre-training Paradigm for 3D Medical Image Segmentation", Medical Image Analysis 2023.[J28]
