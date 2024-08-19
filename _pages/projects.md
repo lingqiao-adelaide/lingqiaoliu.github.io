@@ -3,6 +3,20 @@ permalink: /projects/
 title: "Active Research Themes"
 author_profile: true
 ---
+## Machine Learning in Music ##
+This research theme studies the various applications of machine learning in music. It encompasses topics like how to transform the format of digital music, for example, from MIDI to audio,or from audio to MIDI or sheet music; how to generate music with diverse control, how to build an interactive-AI system for music production.
+
+**Related Publications**
+- Yangyang Shu, Haiming Xu, Ziqin Zhou, Anton van den Hengel, Lingqiao Liu. MuseBarControl: Enhancing Fine-Grained Control in Symbolic Music Generation through Pre-Training and Counterfactual Loss. Arixv.
+
+
+## Machine Learning for Content Generation ##
+We are interested in machine learning algorithms and systems for content generation. The current topics including how to add new control to a pretrained AIGC model, and how to more effectively learn a AIGC model for contents beyond image, vision and text. At methodology level, this theme share some similar insights from the theme "Low-supervision Learning via Knowledge Transfer from Pretrained Models"
+
+**Related Publications**
+- Yuxuan Ding, Chunna Tian, Haoxuan Ding, Lingqiao Liu. The CLIP model is secretly an image-to-prompt converter. Neurip 2023.
+
+
 
 ## Low-supervision Learning via Knowledge Transfer from Pretrained Models
 This research theme investigates methods that can use a small amount of supervision to build a machine learning system. In particular, we are interested in transferring knowledge learned from a pre-trained model to achieve this goal. At the application level, this project encompasses a wide range of applications, examples including image or text classification, dense prediction such as semantic or instance segmentation, information extraction in NLP, content generation, etc.
