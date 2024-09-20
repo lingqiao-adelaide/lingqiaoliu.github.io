@@ -5,12 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
+- Xuan Ren, Biao Wu, Lingqiao Liu*,  I Learn Better If You Speak My Language: Understanding the Superior Performance of Fine-Tuning Large Language Models with LLM-Generated Responses. EMNLP 2024 [C68]
+  
+- Zihu Wang, Lingqiao Liu, Scott Ricardo Figueroa Weston, Samuel Tian, Peng Li. On Learning Discriminative Features from Synthesized Data for Self-Supervised Fine-Grained Visual Recognition ECCV 2024 [C67]
+ 
+- Yingshu Li, Zhanyu Wang, Yunyi Liu, Lei Wang, Lingqiao Liu, Luping Zhou, KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models, MICCAI 2024 [C66]
+  
+- Yunyi Liu, Zhanyu Wang, Yingshu Li, Xinyu Liang, Lingqiao Liu, Lei Wang, Luping Zhou, MRScore: Evaluating Medical Report with LLM-based Reward System. MICCAI 2024 [C65]
+  
 - Minh Hieu Phan, Yutong Xie, Yuankai Qi, Lingqiao Liu, Liyang Liu, Bowen Zhang, Zhibin Liao, Qi Wu, Minh-Son To, Johan W. Verjans, "Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework", CVPR 2024 [C64]
 
 - Ziqin Zhou, Haiming Xu, Yangyang Shu, Lingqiao Liu*, Unlocking the Potential of Pre-trained Vision Transformers for Few-Shot Semantic Segmentation through Relationship Descriptors. CVPR 2024 [C63]
    
 ## 2023
-- Yutong Xie, Jianpeng Zhang, Lingqiao Liu, Hu Wang, Yiwen Ye, Verjans Johan, Yong Xia, "ReFs: A Hybrid Pre-training Paradigm for 3D Medical Image Segmentation", Medical Image Analysis 2023.[J28]
+- Yutong Xie, Jianpeng Zhang, Lingqiao Liu, Hu Wang, Yiwen Ye, Verjans Johan, Yong Xia, ReFs: A Hybrid Pre-training Paradigm for 3D Medical Image Segmentation, Medical Image Analysis 2023.[J28]
 
 - Bingliang Jiao, Lingqiao Liu, Liying Gao, Guosheng Lin, Peng Wang, Yanning Zhang: Toward Re-Identifying Any Animal. NeurIPS 2023 [C62]
 
