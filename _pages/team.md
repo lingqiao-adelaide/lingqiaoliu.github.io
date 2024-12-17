@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 ## Current Postdoc Researchers
-- Dr.Yangyang Shu
-- [Dr.Yutong Dai](https://dongdong93.github.io/)
+- Haiming Xu
+- Xinyu Zhang
+- Libo Sun
 
 
 ## Current HDR students and visiting students
@@ -18,7 +19,9 @@ author_profile: true
 - Yuhao Lin (Co-supervised with Prof. Javen Shi)
 - Xuan Ren  (Co-supervised with Dr. Zhibin Liao)
 
-## Past HDR and visiting students
+## Past Postdocs, HDR and visiting students
+- Dr.Yangyang Shu
+- [Dr.Yutong Dai](https://dongdong93.github.io/)
 - Dr. Haiming Xu
 - Dr. Wanxuan Lu
 - Dr. Xu Wang
