@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+- Haiming Xu, Qi Chen, Lei Wang, Lingqiao Liu*, Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning. AAAI 2025.
+
+- Jiatong Xia, Libo Sun, Lingqiao Liu*, Enhancing Close-up Novel View Synthesis via Pseudo-labeling. AAAI 2025. 
+
 ## 2024
 - Xuan Ren, Biao Wu, Lingqiao Liu*,  I Learn Better If You Speak My Language: Understanding the Superior Performance of Fine-Tuning Large Language Models with LLM-Generated Responses. EMNLP 2024 [C68]
   
