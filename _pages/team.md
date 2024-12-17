@@ -12,16 +12,21 @@ author_profile: true
 
 ## Current HDR students and visiting students
 - Qiaoyang Luo
-- Ziqin Zhou
-- [Liang Chen](https://liangchen527.github.io/)
-- Avraham Chapman (MPhil)
-- Jinan Zou (Co-supervised with Prof. Javen Shi)
+- Xuan Ren
+- Zicheng Duan
+- Wenbo Zhang
+- Ankit Yadav  
 - Yuhao Lin (Co-supervised with Prof. Javen Shi)
-- Xuan Ren  (Co-supervised with Dr. Zhibin Liao)
+
 
 ## Past Postdocs, HDR and visiting students
+- Dr. Ziqin Zhou
+- Dr.[Liang Chen](https://liangchen527.github.io/)
+- Avraham Chapman (MPhil)
+- Dr.Jinan Zou (Co-supervised with Prof. Javen Shi)
 - Dr.Yangyang Shu
 - [Dr.Yutong Dai](https://dongdong93.github.io/)
+- Dr. Yuxuan Ding
 - Dr. Haiming Xu
 - Dr. Wanxuan Lu
 - Dr. Xu Wang
