@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
+
+- Xinyu Zhang, Dong Gong, Zicheng Duan, Anton van den Hengel, Lingqiao Liu*, back arrowGo to ACMMM 2025 BNI Track homepage
+Let Your Video Listen to Your Music! -- Beat-Aligned, Content-Preserving Video Editing with Arbitrary Music. ACM MM 2025. 
+
+- Xinyu Zhang, Zicheng Duan, Dong Gong, Lingqiao Liu*, Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss. BMVC 2025
+
+- Zicheng Duan, Yuxuan Ding, Chenhui Gou Ziqin Zhou Ethan Smith, Lingqiao Liu*, Enhancing zero-shot persoanlized image generation with precise subject encoding and decoupled guidance. BMVC 2025
+
+- Liang Chen, Ghazi Shazan Ahmad, Tianjun Yao, Lingqiao Liu, Zhiqiang Shen, One Last Attention for Your Vision-Language Model. ICCV 2025 
+
+- Wenbo Zhang, Yang Li, Yanyuan Qiao, Siyuan Huang, Jiajun Liu, Feras Dayoub, Xiao Ma, Lingqiao Liu*, Effective Tuning Strategies for Generalist Robot Manipulation Policies. ICRA 2025
+
 - Haiming Xu, Qi Chen, Lei Wang, Lingqiao Liu*, Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning. AAAI 2025.
 
 - Jiatong Xia, Libo Sun, Lingqiao Liu*, Enhancing Close-up Novel View Synthesis via Pseudo-labeling. AAAI 2025. 
