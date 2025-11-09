@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2025
 
--Yunyi Liu, Yingshu Li, Zhanyu Wang, Xinyu Liang, Lingqiao Liu, Lei Wang, Luping Zhou.  ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation. AAAI 2025. [C79]
+- Yunyi Liu, Yingshu Li, Zhanyu Wang, Xinyu Liang, Lingqiao Liu, Lei Wang, Luping Zhou.  ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation. AAAI 2025. [C79]
 
 - Ziqin Zhou, Yifan Yang, Yuqing Yang, Tianyu He, Houwen Peng, Kai Qiu, Qi Dai, Lili Qiu, Chong Luo, Lingqiao Liu*.  HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models. AAAI 2025. [C78]
 
