@@ -4,11 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+- Yunyi Liu, Yingshu Li, Zhanyu Wang, Xinyu Liang, Lingqiao Liu, Lei Wang, Luping Zhou.  ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation. AAAI 2026. [C79]
+
+- Ziqin Zhou, Yifan Yang, Yuqing Yang, Tianyu He, Houwen Peng, Kai Qiu, Qi Dai, Lili Qiu, Chong Luo, Lingqiao Liu*.  HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models. AAAI 2026. [C78]
+
+  
 ## 2025
-
-- Yunyi Liu, Yingshu Li, Zhanyu Wang, Xinyu Liang, Lingqiao Liu, Lei Wang, Luping Zhou.  ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation. AAAI 2025. [C79]
-
-- Ziqin Zhou, Yifan Yang, Yuqing Yang, Tianyu He, Houwen Peng, Kai Qiu, Qi Dai, Lili Qiu, Chong Luo, Lingqiao Liu*.  HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models. AAAI 2025. [C78]
 
 - Wenbo Zhang, Tianrun Hu, Yanyuan Qiao, Hanbo Zhang, Yuchu Qin, Yang Li, Jiajun Liu, Tao Kong, Lingqiao Liu*, Xiao Ma. Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation. NeurIPS 2025. [C77]
 
