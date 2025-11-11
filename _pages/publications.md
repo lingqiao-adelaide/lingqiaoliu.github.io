@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2026
+
+- ANKIT YADAV, Ta Duc Huy, Lingqiao Liu. Revisiting Vision–Language Foundations for No-Reference Image Quality Assessment. WACV 2026 [C81]
+
+- Zhiyuan Zhang, Lingqiao Liu. MoSCo: Real-time and Efficient Text-to-Motion Synthesis via Delta Training. WACV 2026 [C80]
+
 - Yunyi Liu, Yingshu Li, Zhanyu Wang, Xinyu Liang, Lingqiao Liu, Lei Wang, Luping Zhou.  ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation. AAAI 2026. [C79]
 
 - Ziqin Zhou, Yifan Yang, Yuqing Yang, Tianyu He, Houwen Peng, Kai Qiu, Qi Dai, Lili Qiu, Chong Luo, Lingqiao Liu*.  HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models. AAAI 2026. [C78]
