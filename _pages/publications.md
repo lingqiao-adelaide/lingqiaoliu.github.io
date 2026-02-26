@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2026
+- YUNYI LIU, Yingshu Li, Tong Chen, Lingqiao Liu, Lei Wang, Luping Zhou. SAT-RRG: LLM-Guided Self-Adaptive Training for Radiology Report Generation with Token-Level Push–Pull Optimization. CVPR 2026 [C83]
 
+- Jiatong Xia, Zicheng Duan, Anton van den Hengel, Lingqiao Liu*. Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors. CVPR 2026 [C82]
+  
 - ANKIT YADAV, Ta Duc Huy, Lingqiao Liu. Revisiting Vision–Language Foundations for No-Reference Image Quality Assessment. WACV 2026 [C81]
 
 - Zhiyuan Zhang, Lingqiao Liu. MoSCo: Real-time and Efficient Text-to-Motion Synthesis via Delta Training. WACV 2026 [C80]
