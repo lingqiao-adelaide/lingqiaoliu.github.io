@@ -5,13 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2026
+
+- Jinchao Ge, Lingqiao Liu*, Shuwen Zhao, and Lei Wang, “VTOS: Learning to Orchestrate Vision Tools by Co-Searching Solutions and Observers,” EMNLP, 2026.[C88]
+  
+- Yihao Wu, Di Zhao, Wayne Getz, Lingqiao Liu, Gillian Dobbie, Daniel Wilson, and Yun Sing Koh, “Region-Aware Multimodal Interleaving for Animal Re-Identification,” ECCV, 2026. [C87]
+  
+- Ankit Yadav, Ta Duc Huy, and Lingqiao Liu*, “EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance,” ECCV, 2026.[C86]
+  
+- Yingshu Li, Yunyi Liu, Zhenghao Chen, Tong Chen, Zailong Chen, Lingqiao Liu, Lei Wang, and Luping Zhou, “Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation,” ECCV, 2026. [C85]
+  
+- Xiangyang Li, Zhiwei Jiang, Wushuai Jin, Pengyang Niu, Chunna Tian, and Lingqiao Liu, “DETR is Secretly a Multispectral Detector: Zero-Parameter Adaptation via Semantic Alignment,” ECCV, 2026.[C84]
+  
 - YUNYI LIU, Yingshu Li, Tong Chen, Lingqiao Liu, Lei Wang, Luping Zhou. SAT-RRG: LLM-Guided Self-Adaptive Training for Radiology Report Generation with Token-Level Push–Pull Optimization. CVPR 2026 [C83]
 
 - Jiatong Xia, Zicheng Duan, Anton van den Hengel, Lingqiao Liu*. Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors. CVPR 2026 [C82]
   
-- ANKIT YADAV, Ta Duc Huy, Lingqiao Liu. Revisiting Vision–Language Foundations for No-Reference Image Quality Assessment. WACV 2026 [C81]
+- ANKIT YADAV, Ta Duc Huy, Lingqiao Liu*. Revisiting Vision–Language Foundations for No-Reference Image Quality Assessment. WACV 2026 [C81]
 
-- Zhiyuan Zhang, Lingqiao Liu. MoSCo: Real-time and Efficient Text-to-Motion Synthesis via Delta Training. WACV 2026 [C80]
+- Zhiyuan Zhang, Lingqiao Liu*. MoSCo: Real-time and Efficient Text-to-Motion Synthesis via Delta Training. WACV 2026 [C80]
 
 - Yunyi Liu, Yingshu Li, Zhanyu Wang, Xinyu Liang, Lingqiao Liu, Lei Wang, Luping Zhou.  ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation. AAAI 2026. [C79]
 
