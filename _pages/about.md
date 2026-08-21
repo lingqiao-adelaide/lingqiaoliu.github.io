@@ -15,6 +15,8 @@ I have broad interests in machine learning, computer vision and natural language
 
 News
 ======
+1. (Aug 2026)  1 paper accepted to appear at EMNLP 2026
+1. (June 2026) 4 papers accepted to appear at ECCV 2026
 1. (Feb 2026) 2 papers accepted to appear at CVPR 2026
 1. (Nov 2025) 2 papers accepted to appear at AAAI 2026
 1. (Sep 2025) 1 paper accepted to appear at NeurIPS 2025
